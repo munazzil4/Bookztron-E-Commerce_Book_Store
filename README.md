@@ -3,6 +3,9 @@
 Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
 
 ## Available Scripts
+After cloning your project run below to test it on your local :
+
+### `npm install`
 
 In the project directory, you can run:
 
